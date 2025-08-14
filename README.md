@@ -6,7 +6,7 @@ Sleep tracker for linux desktop which you can run on your x86 Tablet.Laptop or P
 
 <img width="1025" height="705" alt="Screenshot_20250813_020328" src="https://github.com/user-attachments/assets/9123056f-76a9-4970-bcee-f1bef09e0bb4" />
 
-# 😸😸😸Created by Nele using ChatGPT so this is experimental and keep eye on your cat it might get angry if you run this code😸😸😸
+# 😸😸😸Created by Nele using ChatGPT so this is experimental and keep eye on your cat might get angry if you run this code😸😸😸
 # License: GPL-3.0-only
 
 # Features:
